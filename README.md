@@ -12,3 +12,6 @@
 
 ## Verificando os resultados
 - Para analisar se o treinamento foi um sucesso ou não, testei a rede com dados que ela nunca viu antes, pois assim podemos entender se a rede é a capaz de realizar a tarefa desejada.
+
+## Apoio para o meu trabalho prático:
+- ## Elton Masaharu Sato, professor da universidade UNINTER.

@@ -4,7 +4,7 @@
 - Foi usado o TensorFlow (Google) e o Keras (Microsoft).
   
 ## Dataset
-- Utilização do MNSIST (dado de escrita manual de números).
+- Utilização do MNSIST (dado de escrita manual de números). 
 
 ## Treinamento e Aprendizagem
 - Foi definido alguns parâmetros de aprendizagem, como o cálculo utilizado para a retrospecção de erro, e a medida de performance.

@@ -1,4 +1,4 @@
-# Treinamento de Rede Neural Artificial
+# Treinamento de Rede Neural Artificial 
 
 - Ambiente Google Colab.
 - Foi usado o TensorFlow (Google) e o Keras (Microsoft).
